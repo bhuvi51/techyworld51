@@ -1,0 +1,107 @@
+<html>
+<head>
+<title>
+aaaaaaaaa
+</title>
+<style>
+pre{
+  background-color :white;
+  width: 800px;
+  border: 5px solid green;
+  padding: 10px;
+  margin: 26px;
+}
+p{
+    
+</style>
+</head>
+<body style="background-color :powderblue;">
+<h1><center><img src ="logo.png" alt="university logo" style="width:59px;height:59px";>   Pondicheery university</center></h1>
+<button type="button"><img src ="home.png" alt="home" style="width:26px;height:26px";>     Home</button><br><br>
+
+<img src ="i1.jpg" alt="university" style="width:300px;height:300px";>       
+<img src ="i2.jpg" alt="university" style="width:300px;height:300px";>
+<img src ="i3.jpg" alt="university" style="width:300px;height:300px";>
+
+<pre>Motto in English:     From Darkness, towards the Light!<br><br>
+Established:	      1985<br><br>
+Accreditation:	      NAAC Accredited With Grade 'A+'<br><br>
+Rector:               Tamilisai Soundararajan, Lieutenant Governor of Puducherry Union Territory<br><br>
+Campus:               Urban</pre>
+
+<p>• Pondicherry University, also known as PU, is a central research university
+ located in Kalapet, Pondicherry in Union Territory of Puducherry, India. </p>
+<p>• It was established by an Act of Parliament in 1985 by the Department of 
+Higher Education, Ministry of Education, Government of India. </p>
+<p>•The Vice President of India is the Chancellor along with the Lieutenant 
+Governor of Puducherry acting as the Chief Rector and the President of India 
+is the Visitor of the university. </p>
+<p>• The university is a collegiate university with 
+its jurisdiction spread over the Union Territory of Puducherry located in <mark>Tamil
+ Nadu (Pondicherry and Karaikal), Kerala (Mahe) and Andhra Pradesh 
+(Yanam), and Union Territory of Andaman and Nicobar Islands.</mark> </p>
+<p>• The vast jurisdiction over three Union Territories namely gives the university 
+a national character.</p>
+<p>• The residents speak diverse languages such as English, Tamil, French, 
+Telugu, Malayalam, Hindi, Bengali, Oriya and Kannada.</p>
+<p>• 
+ Puducherry offers 129 courses to its students in various streams. Pondicherry University courses are offered to students at two levels; postgraduate and doctoral.
+</p>
+
+<pre>
+School of Management:
+      • Department of Management Studies
+      • Department of Commerce
+      • Department of Economics
+      • Department of Tourism Studies
+      • Department of Banking Technology 
+      • Department of International Business
+
+Karaikal Campus:
+
+    • Department of Management
+    • Department of Commerce
+    • Department of Computer Science
+
+Ramanujan School of Mathematical Sciences:
+
+     • Department of Mathematics
+     • Department of Statistics
+
+School of Engineering & Technology:
+
+     • Computer Science
+     • Electronics Engineering
+     • Centre for Pollution Control & Environmental Engineering
+     • Coastal Engineering
+     • Geological Technology
+     • Centre for Pollution Control and Environmental Engineering
+
+School of Physical, Chemical and Applied Sciences:
+
+     • Department of Physics
+     • Department of Chemistry
+     • Department of Physics
+     • Department of Chemistry
+     • Department of Earth Sciences
+     • Department of Applied Psychology
+     • Department of Earth Science
+     • Department of Biotechnology
+
+School of Life Sciences:
+
+     • Department of Bioinformatics
+     • Department of Biotechnology
+     • Department of Ecology & Environmental Sciences
+     • Department of Ocean Studies and Marine Biology
+     • Department of Food Science & Technology
+     • Department of Biochemistry & Molecular Biology
+     • Department of Microbiology</pre>
+
+
+</body>
+</html>
+
+
+
+
